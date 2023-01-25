@@ -1,0 +1,135 @@
+#main{
+    display: flex;
+    gap: 120px;
+    margin-top: 150px;
+    margin-left: 350px;
+}
+.center{
+    display: inline-block;
+}
+#main_img{
+    border-radius: 50%;
+    width: 576px;
+    height: 576px;
+    display: block;
+    border: 12px solid ghostwhite;
+}
+#form_login{
+    /*width: 50%;*/
+    margin-top: 70px;
+}
+#favicon{
+    display: flex;
+}
+#favicon_img{
+    width: 50px;
+    height: auto;
+}
+span{
+    color: #C8242F;
+    font-weight: bold;
+}
+#inputPassword3{
+    margin-top: 20px;
+    width: 429px;
+    /* margin-bottom: 10px; */
+}
+#inputEmail3{
+    margin-top: 10px;
+    margin-right: -20px;
+    width: 429px;
+}
+#login_pwd{
+    display: flex;
+    gap: 100px;
+    margin-bottom: 10px;
+}
+#login_but{
+    background-color: #C8242F;
+    /* margin-top: 20px; */
+    border-radius: 40px;
+    width: 100px;
+    border-color: #ffffff;
+}
+#forgot_pwd_qus{
+    /* margin-top: 35px; */
+    font-size: 15px;
+    color: #ADADAD;
+}
+body{
+    background-color: rgb(230, 230, 224);
+}
+#dashboaed_header{
+    display: flex;
+    gap: 15px;
+}
+#menu{
+    margin-left: 20px;
+}
+#search_compant_db{
+    width: 15.59px;
+    height: 15.59px;
+    margin-left: 77px;
+    margin-right: 15px;
+    
+}
+.main {
+    width: 500px;
+    
+}
+
+/* Bootstrap 4 text input with search icon */
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+#search_icon_db{
+    width: 15px;
+    height: 15px;
+    margin: 10px;
+}
+.border_none{
+    border: none !important;
+}
+.ml-auto {
+    margin-left: 70px;
+}
+.img_profile{
+    margin-left: 53px;
+    margin-right: 12px;
+}
+.down_icon{
+    margin-right: 10px;
+}
+.sidebar{
+    width: 242px;
+}
+.sidebar{
+    width:200px;
+    height:900px;
+    border: 2px solid;
+    background-color: #ffffff;
+}
+.sidebar_item{
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
+.sidebar_icon{
+    width: 20px;
+    height: 20px;
+    margin-left: 13px;
+
+}
